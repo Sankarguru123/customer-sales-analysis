@@ -20,6 +20,12 @@ Customer Sales Analysis (CSA) – A data engineering project designed to process
 
 <img width="1890" height="765" alt="image" src="https://github.com/user-attachments/assets/9c981bbe-03bc-4f28-9992-53678d1adbb1" />
 
+<img width="1908" height="647" alt="image" src="https://github.com/user-attachments/assets/d6e49785-3d9d-42b6-aaa7-3fe7a7b037a3" />
+
+
+
+
+
 
 
 
@@ -28,3 +34,8 @@ Customer Sales Analysis (CSA) – A data engineering project designed to process
 <img width="1898" height="797" alt="image" src="https://github.com/user-attachments/assets/270fe120-c81b-4b40-8ce6-a27ebe09396b" />
 
 <img width="1911" height="725" alt="image" src="https://github.com/user-attachments/assets/9962e57d-9ecb-4dc7-b446-8ffc63347075" />
+<img width="1904" height="776" alt="image" src="https://github.com/user-attachments/assets/f7b0d5d1-99ad-426e-bd66-061f2bd972bd" />
+
+<img width="1894" height="671" alt="image" src="https://github.com/user-attachments/assets/0c178037-55a6-4814-afa8-e1a444eb8093" />
+
+<img width="1895" height="499" alt="image" src="https://github.com/user-attachments/assets/2f1a02cc-2eda-48d4-8b54-3c7e83f9d7f3" />
